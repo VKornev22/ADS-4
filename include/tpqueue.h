@@ -8,7 +8,7 @@ class TPQueue {
  private:
     T *arr;
     int size;
-    int begin,end;
+    int begin, end;
     int count;
  public:
     TPQueue();
